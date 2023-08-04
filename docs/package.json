@@ -1,0 +1,19 @@
+{
+  "name": "docsite",
+  "version": "0.0.1",
+  "description": "摩客，快速搭建推广页面，提高运营效率",
+  "main": "index.js",
+  "authors": {
+    "name": "akoomi",
+    "email": "softlight0629@gmail.com"
+  },
+  "repository": "/docsite",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
